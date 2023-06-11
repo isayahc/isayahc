@@ -3,6 +3,8 @@
 I am a developer interested in information and its mediums. Passionate about coding, I continually explore new technologies and ways to improve my skills.
 
 ![Avatar](your_avatar_url_here)
+![Isayah's GitHub stats](https://github-readme-stats.vercel.app/api?username=isayahc&show_icons=true&theme=radical)
+
 
 ## 🏠 I'm currently living in Brooklyn
 Check out my personal website [here](https://www.xaytechgold.com).
