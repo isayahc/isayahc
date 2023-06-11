@@ -4,7 +4,7 @@
 
 
 ## 🏠 I'm currently living in Brooklyn
-Check out my personal website [here](https://www.xaytechgold.com).
+Check out my personal website [here](https://isayahc.github.io).
 
 ## 🔭 Pinned Repositories
 
