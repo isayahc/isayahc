@@ -15,8 +15,6 @@ Check out my personal website [here](https://www.xaytechgold.com).
 5. [Definitive-X2t-App](link_to_repo_here): An application developed using Python.
 6. [AWSCloud-C09](link_to_repo_here): A quick tutorial for using AWS cloud services.
 
-## 🌱 I'm always learning and growing
-In the last year alone, I've made 205 contributions to various projects.
 
 ## 🏆 Achievements
 
