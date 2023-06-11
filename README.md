@@ -24,5 +24,7 @@ Check out my personal website [here](https://isayahc.github.io).
 - Arctic Code Vault Contributor
 
 ## 📫 How to reach me
-Feel free to reach out if you have any questions or if you just want to chat about technology. You can contact me [here](link_to_your_contact_info_here).
+Feel free to reach out if you have any questions or if you just want to chat about technology. You can contact me via:
+ - [linkedin](https://www.linkedin.com/in/isayahc/).
+ - [email](isayahculbertson@gmail.com)
 
