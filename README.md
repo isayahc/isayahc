@@ -8,12 +8,12 @@ Check out my personal website [here](https://isayahc.github.io).
 
 ## 🔭 Pinned Repositories
 
-1. [Semi-Automated-Youtube-Channel](link_to_repo_here): A semi-automated YouTube channel that has a lot of cool features for someone to use in their content generating project.
-2. [Electro-clean](link_to_repo_here): A repository for cleaning electronic data.
-3. [Chat-GPT-auxillary-scripts-for-code](link_to_repo_here): Scripts with the goal of making it easier for users to input information into Chat-GPT related to code design.
-4. [video-text](link_to_repo_here): A project related to video text extraction and processing.
-5. [Definitive-X2t-App](link_to_repo_here): An application developed using Python.
-6. [AWSCloud-C09](link_to_repo_here): A quick tutorial for using AWS cloud services.
+1. [Semi-Automated-Youtube-Channel](github.com/isayahc/Semi-Automated-Youtube-Channel): A semi-automated YouTube channel that has a lot of cool features for someone to use in their content generating project.
+2. [Electro-clean](github.com/isayahc/Electro-clean): A repository for cleaning electronic data.
+3. [Chat-GPT-auxillary-scripts-for-code](github.com/isayahc/Chat-GPT-auxillary-scripts-for-code): Scripts with the goal of making it easier for users to input information into Chat-GPT related to code design.
+4. [video-text](github.com/isayahc/video-text): A project related to video text extraction and processing.
+5. [Definitive-X2t-App](github.com/isayahc/Definitive-X2t-App): An application developed using Python.
+6. [AWSCloud-C09](github.com/isayahc/AWSCloud-C09): A quick tutorial for using AWS cloud services.
 
 
 ## 🏆 Achievements
