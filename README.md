@@ -1,4 +1,4 @@
-# Hi there, I'm Isayah Culbertson 👋
+# Hi  👋 there, I'm  🌠 Isayah Culbertson 🌠
 
 ![Isayah's GitHub stats](https://github-readme-stats.vercel.app/api?username=isayahc&show_icons=true&theme=transparent)
 
