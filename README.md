@@ -1,6 +1,5 @@
 # Hi!  👋 I'm  🌠 Isayah Culbertson 🌠🧬
 
-![Isayah's GitHub stats](https://github-readme-stats.vercel.app/api?username=isayahc&show_icons=true&theme=transparent)
 
 
 ## 🏠 I'm currently living in Brooklyn
