@@ -1,4 +1,6 @@
 # Hi!  👋 I'm  🌠 Isayah Culbertson 🌠🧬
+<img width="480" height="480" alt="Gen-4 Turbo - have the mech the in back move, have the assembly line progress_ Have the robot arms m" src="https://github.com/user-attachments/assets/a114aac7-4840-43bb-8e25-e930b14383f5" />
+
 
 
 ## 🏠 I'm currently living in Brooklyn
